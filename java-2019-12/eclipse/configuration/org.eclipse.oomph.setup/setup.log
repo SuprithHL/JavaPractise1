@@ -1,0 +1,230 @@
+[2020-01-21 23:39:46] Executing bootstrap tasks
+[2020-01-21 23:39:46] Java(TM) SE Runtime Environment 12+33
+[2020-01-21 23:39:46] Product org.eclipse.products.epp.package.java.2019-12
+[2020-01-21 23:39:46] Bundle org.eclipse.oomph.setup 1.15.0.v20191116-1146, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-01-21 23:39:46] Bundle org.eclipse.oomph.setup.core 1.15.0.v20191103-0619, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-01-21 23:39:46] Bundle org.eclipse.oomph.setup.p2 1.13.0.v20191019-1424, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-01-21 23:39:46] Performing P2 Director (Eclipse IDE for Java Developers (2019-12))
+[2020-01-21 23:39:46] Offline = false
+[2020-01-21 23:39:46] Mirrors = true
+[2020-01-21 23:39:46] Resolving 23 requirements from 3 repositories to C:\Users\SUPRITH H L\eclipse\java-2019-12\eclipse
+[2020-01-21 23:39:46] Requirement epp.package.java [4.14.0,5.0.0)
+[2020-01-21 23:39:46] Requirement org.eclipse.platform.feature.group [4.14.0,5.0.0)
+[2020-01-21 23:39:46] Requirement org.eclipse.rcp.feature.group [4.14.0,5.0.0)
+[2020-01-21 23:39:46] Requirement org.eclipse.buildship.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.eclemma.feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.egit.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.egit.mylyn.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.epp.mpc.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.jdt.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.jgit.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.m2e.feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.m2e.logback.feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.mylyn.bugzilla_feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.mylyn.context_feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.mylyn.git.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.mylyn.hudson.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.mylyn.ide_feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.mylyn.java_feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.mylyn.wikitext_feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.mylyn_feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.tips.feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.wst.xml_ui.feature.feature.group
+[2020-01-21 23:39:46] Requirement org.eclipse.oomph.setup.feature.group
+[2020-01-21 23:39:46] Repository http://download.eclipse.org/technology/epp/packages/2019-12
+[2020-01-21 23:39:46] Repository http://download.eclipse.org/releases/2019-12/201912181000
+[2020-01-21 23:39:46] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-01-21 23:39:57] Calculating requirements and dependencies.
+[2020-01-21 23:39:57] Computing prerequisite plan
+[2020-01-21 23:40:16] 
+[2020-01-21 23:40:18] Executing bootstrap tasks
+[2020-01-21 23:40:18] Java(TM) SE Runtime Environment 12+33
+[2020-01-21 23:40:18] Product org.eclipse.products.epp.package.java.2019-12
+[2020-01-21 23:40:18] Bundle org.eclipse.oomph.setup 1.15.0.v20191116-1146, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-01-21 23:40:18] Bundle org.eclipse.oomph.setup.core 1.15.0.v20191103-0619, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-01-21 23:40:18] Bundle org.eclipse.oomph.setup.p2 1.13.0.v20191019-1424, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-01-21 23:40:18] Performing P2 Director (Eclipse IDE for Java Developers (2019-12))
+[2020-01-21 23:40:18] Offline = false
+[2020-01-21 23:40:18] Mirrors = true
+[2020-01-21 23:40:18] Resolving 23 requirements from 3 repositories to C:\Users\SUPRITH H L\eclipse\java-2019-12\eclipse
+[2020-01-21 23:40:18] Requirement epp.package.java [4.14.0,5.0.0)
+[2020-01-21 23:40:18] Requirement org.eclipse.platform.feature.group [4.14.0,5.0.0)
+[2020-01-21 23:40:18] Requirement org.eclipse.rcp.feature.group [4.14.0,5.0.0)
+[2020-01-21 23:40:18] Requirement org.eclipse.buildship.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.eclemma.feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.egit.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.egit.mylyn.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.epp.mpc.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.jdt.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.jgit.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.m2e.feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.m2e.logback.feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.mylyn.bugzilla_feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.mylyn.context_feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.mylyn.git.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.mylyn.hudson.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.mylyn.ide_feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.mylyn.java_feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.mylyn.wikitext_feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.mylyn_feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.tips.feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.wst.xml_ui.feature.feature.group
+[2020-01-21 23:40:18] Requirement org.eclipse.oomph.setup.feature.group
+[2020-01-21 23:40:18] Repository http://download.eclipse.org/technology/epp/packages/2019-12
+[2020-01-21 23:40:18] Repository http://download.eclipse.org/releases/2019-12/201912181000
+[2020-01-21 23:40:18] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-01-21 23:40:20] Calculating requirements and dependencies.
+[2020-01-21 23:40:20] Computing prerequisite plan
+[2020-01-21 23:40:26] Fetching artifacts.xml.xz from http://download.eclipse.org/technology/epp/packages/2019-12/
+[2020-01-21 23:40:27] Fetching artifacts.xml.xz from http://download.eclipse.org/releases/2019-12/201912181000/
+[2020-01-21 23:40:34] Fetching compositeArtifacts.jar from http://download.eclipse.org/oomph/updates/milestone/latest/ (444B)
+[2020-01-21 23:40:35] Fetching artifacts.jar from http://download.eclipse.org/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ (9.77kB)
+[2020-01-21 23:40:35] Collecting 39 artifacts from http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.setup.p2.edit
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.jreinfo.win32.x86_64
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.extractor.lib
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.predicates.edit
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.setup
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.p2
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.setup.core
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.resources.edit
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.predicates
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.jreinfo
+[2020-01-21 23:40:36] Fetching org.eclipse.oomph.jreinfo.win32.x86_64_1.7.0.v20191107-1011.jar from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (29.7kB)
+[2020-01-21 23:40:36] Fetching org.eclipse.oomph.p2_1.15.0.v20200113-0727.jar from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/features/ (19.14kB)
+[2020-01-21 23:40:36] Downloading org.eclipse.oomph.p2
+[2020-01-21 23:40:36] Fetching org.eclipse.oomph.setup.core_1.16.0.v20200110-0857.jar from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/features/ (19.3kB)
+[2020-01-21 23:40:37] Fetching org.eclipse.oomph.resources.edit_1.10.0.v20180706-1242.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (14.17kB)
+[2020-01-21 23:40:37] Fetching org.eclipse.oomph.p2_1.11.0.v20190920-0437.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (33.46kB)
+[2020-01-21 23:40:37] Downloading org.apache.commons.logging
+[2020-01-21 23:40:37] Downloading org.eclipse.oomph.base
+[2020-01-21 23:40:37] Fetching org.eclipse.oomph.setup.p2.edit_1.11.0.v20190702-1454.jar.pack.gz from http://mirror.rise.ph/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (13.46kB)
+[2020-01-21 23:40:37] Fetching org.eclipse.oomph.setup_1.16.0.v20200113-0727.jar from http://mirrors.neusoft.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/features/ (19.18kB)
+[2020-01-21 23:40:37] Downloading org.eclipse.oomph.preferences
+[2020-01-21 23:40:37] Fetching org.eclipse.oomph.jreinfo_1.12.0.v20191228-0803.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (17.88kB)
+[2020-01-21 23:40:37] Downloading org.eclipse.oomph.workingsets.edit
+[2020-01-21 23:40:37] Downloading org.eclipse.nebula.widgets.tablecombo
+[2020-01-21 23:40:38] Downloading org.eclipse.oomph.resources
+[2020-01-21 23:40:38] Fetching org.eclipse.oomph.resources_1.12.0.v20190920-0437.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (41.88kB)
+[2020-01-21 23:40:38] Fetching org.eclipse.oomph.workingsets.edit_1.10.0.v20180706-1242.jar.pack.gz from http://mirror.cc.vt.edu/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (16.28kB)
+[2020-01-21 23:40:38] Fetching org.eclipse.nebula.widgets.tablecombo_1.2.0.202001052049.jar from http://mirror.cc.columbia.edu/pub/software/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (36.44kB)
+[2020-01-21 23:40:38] Downloading org.eclipse.oomph.p2.edit
+[2020-01-21 23:40:38] Downloading org.eclipse.oomph.setup.p2
+[2020-01-21 23:40:38] Fetching org.eclipse.oomph.p2.edit_1.11.0.v20190323-1130.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (20.37kB)
+[2020-01-21 23:40:38] Fetching org.eclipse.oomph.preferences_1.11.0.v20190920-0437.jar.pack.gz from http://ftp.ussg.iu.edu/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (34.37kB)
+[2020-01-21 23:40:38] Fetching org.eclipse.oomph.base_1.12.0.v20190705-1018.jar.pack.gz from http://eclipse.mirror.rafal.ca/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (33.96kB)
+[2020-01-21 23:40:38] Downloading org.eclipse.oomph.setup.doc
+[2020-01-21 23:40:39] Downloading org.eclipse.oomph.p2.ui
+[2020-01-21 23:40:39] Fetching org.apache.commons.logging_1.2.0.v20180409-1502.jar.pack.gz from http://mirror.bit.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (33.71kB)
+[2020-01-21 23:40:39] Fetching org.eclipse.oomph.predicates_1.11.0.v20190920-0437.jar.pack.gz from https://ftp.harukasan.org/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (25.47kB)
+[2020-01-21 23:40:39] Fetching org.eclipse.oomph.setup.doc_1.10.0.v20200104-0906.jar from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (2.49MB)
+[2020-01-21 23:40:39] Fetching org.eclipse.oomph.setup.p2_1.14.0.v20200102-0955.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (23.39kB)
+[2020-01-21 23:40:40] Fetching org.eclipse.oomph.p2.ui_1.13.0.v20200102-0955.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (120.66kB)
+[2020-01-21 23:40:40] Fetching org.eclipse.oomph.preferences_1.11.0.v20190920-0437.jar.pack.gz from http://ftp.ussg.iu.edu/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:40] Fetching org.eclipse.nebula.widgets.tablecombo_1.2.0.202001052049.jar from http://mirror.cc.columbia.edu/pub/software/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:40] Fetching org.eclipse.oomph.base_1.12.0.v20190705-1018.jar.pack.gz from http://eclipse.mirror.rafal.ca/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:40] Fetching org.eclipse.oomph.predicates_1.11.0.v20190920-0437.jar.pack.gz from https://ftp.harukasan.org/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:40] Fetching org.eclipse.oomph.setup.p2_1.14.0.v20200102-0955.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:40] Fetching org.eclipse.oomph.setup.doc_1.10.0.v20200104-0906.jar from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:40] Downloading org.eclipse.oomph.p2.core
+[2020-01-21 23:40:40] Downloading org.eclipse.oomph.ui
+[2020-01-21 23:40:40] Fetching org.apache.commons.logging_1.2.0.v20180409-1502.jar.pack.gz from http://mirror.bit.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:40] Downloading org.eclipse.oomph.setup
+[2020-01-21 23:40:41] Fetching org.eclipse.oomph.p2.ui_1.13.0.v20200102-0955.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:41] Downloading org.eclipse.oomph.setup.ui.questionnaire
+[2020-01-21 23:40:41] Fetching org.eclipse.oomph.p2.core_1.15.0.v20200113-0727.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (123.94kB)
+[2020-01-21 23:40:41] Downloading org.apache.httpcomponents.httpclient
+[2020-01-21 23:40:42] Fetching org.apache.httpcomponents.httpclient_4.5.6.v20190503-0009.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (329.69kB)
+[2020-01-21 23:40:42] Fetching org.eclipse.oomph.setup_1.16.0.v20200105-1257.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (136.4kB)
+[2020-01-21 23:40:43] Fetching org.eclipse.oomph.p2.core_1.15.0.v20200113-0727.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:43] Downloading org.eclipse.oomph.p2.doc
+[2020-01-21 23:40:43] Fetching org.apache.httpcomponents.httpclient_4.5.6.v20190503-0009.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:43] Fetching org.eclipse.oomph.setup.ui.questionnaire_1.10.0.v20180706-1242.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (287.16kB)
+[2020-01-21 23:40:43] Fetching org.eclipse.oomph.ui_1.13.0.v20191221-1101.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (121.71kB)
+[2020-01-21 23:40:43] Fetching org.eclipse.oomph.extractor.lib_1.7.0.v20191111-0627.jar.pack.gz from http://mirrors.ustc.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (13.98kB)
+[2020-01-21 23:40:44] Fetching org.eclipse.oomph.p2.doc_1.10.0.v20180706-1242.jar from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (313.02kB)
+[2020-01-21 23:40:44] Fetching org.eclipse.oomph.setup_1.16.0.v20200105-1257.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:44] Downloading org.apache.commons.codec
+[2020-01-21 23:40:44] Fetching org.eclipse.oomph.predicates.edit_1.10.0.v20180706-1242.jar.pack.gz from https://mirrors.tuna.tsinghua.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (19.83kB)
+[2020-01-21 23:40:44] Fetching org.eclipse.oomph.setup.ui.questionnaire_1.10.0.v20180706-1242.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:44] Downloading org.eclipse.oomph.setup.core
+[2020-01-21 23:40:44] Fetching org.eclipse.oomph.ui_1.13.0.v20191221-1101.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:45] Fetching org.eclipse.oomph.p2.doc_1.10.0.v20180706-1242.jar from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:45] Downloading org.eclipse.oomph.setup.ui
+[2020-01-21 23:40:45] Fetching org.apache.commons.codec_1.10.0.v20180409-1845.jar.pack.gz from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (112.2kB)
+[2020-01-21 23:40:46] Fetching org.eclipse.oomph.setup.ui_1.16.0.v20200111-1101.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (233.4kB)
+[2020-01-21 23:40:46] Fetching org.apache.commons.codec_1.10.0.v20180409-1845.jar.pack.gz from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:47] Downloading org.eclipse.oomph.setup.edit
+[2020-01-21 23:40:47] Fetching org.eclipse.oomph.setup.ui_1.16.0.v20200111-1101.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:48] Fetching org.eclipse.oomph.setup.core_1.16.0.v20200110-0857.jar.pack.gz from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (107.26kB)
+[2020-01-21 23:40:48] Fetching org.eclipse.oomph.setup.edit_1.14.0.v20190704-1252.jar.pack.gz from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (55.51kB)
+[2020-01-21 23:40:49] Fetching org.eclipse.oomph.setup.core_1.16.0.v20200110-0857.jar.pack.gz from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (107.26kB)
+[2020-01-21 23:40:49] Fetching org.eclipse.oomph.setup.edit_1.14.0.v20190704-1252.jar.pack.gz from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (55.51kB)
+[2020-01-21 23:40:50] Downloading org.eclipse.oomph.setup.editor
+[2020-01-21 23:40:50] Fetching org.eclipse.oomph.setup.core_1.16.0.v20200110-0857.jar.pack.gz from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:50] Downloading org.apache.httpcomponents.httpcore
+[2020-01-21 23:40:51] Downloading org.eclipse.oomph.workingsets.editor
+[2020-01-21 23:40:51] Fetching org.eclipse.oomph.setup.editor_1.16.0.v20200102-1031.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (170.67kB)
+[2020-01-21 23:40:51] Fetching org.apache.httpcomponents.httpcore_4.4.10.v20190123-2214.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (108.91kB)
+[2020-01-21 23:40:52] Fetching org.eclipse.oomph.workingsets.editor_1.11.0.v20190929-1544.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (41.85kB)
+[2020-01-21 23:40:52] Fetching org.eclipse.oomph.setup.edit_1.14.0.v20190704-1252.jar.pack.gz from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:53] Fetching org.apache.httpcomponents.httpcore_4.4.10.v20190123-2214.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:53] Fetching org.eclipse.oomph.workingsets.editor_1.11.0.v20190929-1544.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:53] Fetching org.eclipse.oomph.setup.editor_1.16.0.v20200102-1031.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:54] Downloading org.eclipse.oomph.util
+[2020-01-21 23:40:55] Fetching org.eclipse.oomph.util_1.14.0.v20200113-0727.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (76.09kB)
+[2020-01-21 23:40:55] Downloading org.eclipse.oomph.base.edit
+[2020-01-21 23:40:56] Downloading org.eclipse.oomph.jreinfo.ui
+[2020-01-21 23:40:56] Downloading org.eclipse.oomph.setup.sync
+[2020-01-21 23:40:56] Fetching org.eclipse.oomph.util_1.14.0.v20200113-0727.jar.pack.gz from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:56] Fetching org.eclipse.oomph.base.edit_1.12.0.v20190702-1454.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (24.5kB)
+[2020-01-21 23:40:57] Fetching org.eclipse.oomph.jreinfo.ui_1.11.0.v20191006-0741.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (27.1kB)
+[2020-01-21 23:40:57] Fetching org.eclipse.oomph.setup.sync_1.12.0.v20200107-1045.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (46.16kB)
+[2020-01-21 23:40:58] Fetching org.eclipse.oomph.jreinfo.ui_1.11.0.v20191006-0741.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:58] Fetching org.eclipse.oomph.setup.sync_1.12.0.v20200107-1045.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:40:58] Downloading org.eclipse.oomph.workingsets
+[2020-01-21 23:41:00] Fetching org.eclipse.oomph.workingsets_1.10.0.v20180706-1242.jar.pack.gz from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (21.34kB)
+[2020-01-21 23:41:02] Fetching org.eclipse.oomph.base.edit_1.12.0.v20190702-1454.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:41:02] Fetching org.eclipse.oomph.base.edit_1.12.0.v20190702-1454.jar from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (62.5kB)
+[2020-01-21 23:41:03] Fetching org.eclipse.oomph.base.edit_1.12.0.v20190702-1454.jar from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:42:45] Fetching org.eclipse.oomph.setup.doc_1.10.0.v20200104-0906.jar from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/ (2.49MB)
+[2020-01-21 23:42:46] Fetching org.eclipse.oomph.setup.doc_1.10.0.v20200104-0906.jar from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/plugins/
+[2020-01-21 23:42:50] Mirrored 7 artifacts from http://ftp.daumkakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 16kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://mirror.library.ucy.ac.cy/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 15kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://mirror.rise.ph/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 14kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://mirror.cc.vt.edu/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 13kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://mirror.cc.columbia.edu/pub/software/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 12kb/s
+[2020-01-21 23:42:50] Mirrored 4 artifacts from http://mirror.kakao.com/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 11kb/s
+[2020-01-21 23:42:50] Mirrored 5 artifacts from http://ftp.jaist.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 11kb/s with 1 failures
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://ftp.ussg.iu.edu/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 10kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://mirrors.neusoft.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 9kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://mirror.bit.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 9kb/s
+[2020-01-21 23:42:50] Mirrored 4 artifacts from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 8kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://eclipse.mirror.rafal.ca/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 6kb/s
+[2020-01-21 23:42:50] Mirrored 10 artifacts from http://eclipse.mirrors.estointernet.in/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 5kb/s with 1 failures
+[2020-01-21 23:42:50] Mirrored 1 artifacts from https://ftp.harukasan.org/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 5kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from https://mirrors.tuna.tsinghua.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 2kb/s
+[2020-01-21 23:42:50] Mirrored 1 artifacts from http://mirrors.ustc.edu.cn/eclipse/oomph/drops/milestone/S20200113-061047-1.16.0-M1/ at 1kb/s
+[2020-01-21 23:42:50] Collected 39 artifacts for http://download.eclipse.org/oomph/updates/milestone/latest in 135.22s
+[2020-01-21 23:42:50] Collecting 5 artifacts from http://download.eclipse.org/technology/epp/packages/2019-12
+[2020-01-21 23:42:50] An error was detected while performing the engine operation and the changes are being rolled back. See the log for details.
+[2020-01-21 23:42:50] java.lang.NullPointerException
+  at org.eclipse.core.internal.runtime.InternalPlatform.getLog(InternalPlatform.java:361)
+  at org.eclipse.core.runtime.Plugin.getLog(Plugin.java:237)
+  at org.eclipse.oomph.util.OomphPlugin.getLog(OomphPlugin.java:210)
+  at org.eclipse.oomph.util.OomphPlugin.log(OomphPlugin.java:225)
+  at org.eclipse.oomph.util.OomphPlugin.log(OomphPlugin.java:236)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.cleanup(ProfileTransactionImpl.java:1097)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.access$0(ProfileTransactionImpl.java:1087)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl$3.commit(ProfileTransactionImpl.java:561)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.commit(ProfileTransactionImpl.java:341)
+  at org.eclipse.oomph.setup.p2.impl.P2TaskImpl.perform(P2TaskImpl.java:815)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.doPerformNeededSetupTasks(SetupTaskPerformer.java:3827)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performNeededSetupTasks(SetupTaskPerformer.java:3755)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performTriggeredSetupTasks(SetupTaskPerformer.java:3736)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.perform(SetupTaskPerformer.java:3629)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage.installPerform(SimpleVariablePage.java:1325)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage.access$32(SimpleVariablePage.java:1187)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage$20.run(SimpleVariablePage.java:1132)
+
+[2020-01-21 23:42:50] 
